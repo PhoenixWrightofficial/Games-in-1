@@ -1,5 +1,3 @@
-Markdown
-
 # Games-in-1
 
 This is a free game created with the Godot Engine.
